@@ -1,4 +1,3 @@
-# raspberry-pi-5g-network-setup
 # Raspberry Pi 5G Network Setup
 
 This project documents the setup, configuration, testing, and monitoring of a **Waveshare RM520N-GL 5G HAT** with a **Raspberry Pi 5** for connecting to a private 5G laboratory network.
