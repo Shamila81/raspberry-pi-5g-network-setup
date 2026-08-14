@@ -1,0 +1,2786 @@
+Wed 10 Jun 13:28:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41347sec preferred_lft 41347sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:28:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41337sec preferred_lft 41337sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:29:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41327sec preferred_lft 41327sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:29:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41317sec preferred_lft 41317sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:29:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41307sec preferred_lft 41307sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:29:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41297sec preferred_lft 41297sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:29:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41287sec preferred_lft 41287sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:29:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41277sec preferred_lft 41277sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:30:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41267sec preferred_lft 41267sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:30:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41257sec preferred_lft 41257sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:30:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41247sec preferred_lft 41247sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:30:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41237sec preferred_lft 41237sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:30:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41227sec preferred_lft 41227sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:30:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41217sec preferred_lft 41217sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:31:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41207sec preferred_lft 41207sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:31:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41197sec preferred_lft 41197sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:31:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41187sec preferred_lft 41187sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:31:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41177sec preferred_lft 41177sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:31:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41167sec preferred_lft 41167sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:31:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41157sec preferred_lft 41157sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:32:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41147sec preferred_lft 41147sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:32:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41137sec preferred_lft 41137sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 13:32:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 41127sec preferred_lft 41127sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 14:56:08 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 36106sec preferred_lft 36106sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:07:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35424sec preferred_lft 35424sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:07:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35414sec preferred_lft 35414sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:07:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35404sec preferred_lft 35404sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:08:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35394sec preferred_lft 35394sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:08:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35384sec preferred_lft 35384sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:08:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35374sec preferred_lft 35374sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:08:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35364sec preferred_lft 35364sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:08:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35354sec preferred_lft 35354sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:08:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35344sec preferred_lft 35344sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:09:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35334sec preferred_lft 35334sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:09:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35324sec preferred_lft 35324sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:09:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35314sec preferred_lft 35314sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:09:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35304sec preferred_lft 35304sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:09:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35294sec preferred_lft 35294sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:09:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35284sec preferred_lft 35284sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:10:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35274sec preferred_lft 35274sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:10:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35264sec preferred_lft 35264sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:10:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35254sec preferred_lft 35254sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:10:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35244sec preferred_lft 35244sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:10:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35234sec preferred_lft 35234sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:10:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35224sec preferred_lft 35224sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:11:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35214sec preferred_lft 35214sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:11:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35204sec preferred_lft 35204sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:11:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35194sec preferred_lft 35194sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:11:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35184sec preferred_lft 35184sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:11:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35174sec preferred_lft 35174sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:11:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35164sec preferred_lft 35164sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:12:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35154sec preferred_lft 35154sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:12:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35144sec preferred_lft 35144sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:12:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35134sec preferred_lft 35134sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:12:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35124sec preferred_lft 35124sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:12:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35114sec preferred_lft 35114sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:12:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35104sec preferred_lft 35104sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:13:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35094sec preferred_lft 35094sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:13:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35084sec preferred_lft 35084sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:13:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35074sec preferred_lft 35074sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:13:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35064sec preferred_lft 35064sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:13:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35054sec preferred_lft 35054sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:13:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35044sec preferred_lft 35044sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:14:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35034sec preferred_lft 35034sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:14:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35024sec preferred_lft 35024sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:14:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35014sec preferred_lft 35014sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:14:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 35004sec preferred_lft 35004sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:14:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34994sec preferred_lft 34994sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:14:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34984sec preferred_lft 34984sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:15:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34974sec preferred_lft 34974sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:15:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34964sec preferred_lft 34964sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:15:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34954sec preferred_lft 34954sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:15:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34944sec preferred_lft 34944sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:15:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34934sec preferred_lft 34934sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:15:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34924sec preferred_lft 34924sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:16:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34914sec preferred_lft 34914sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:16:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34904sec preferred_lft 34904sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:16:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34894sec preferred_lft 34894sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:16:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34884sec preferred_lft 34884sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:16:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34874sec preferred_lft 34874sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:16:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34864sec preferred_lft 34864sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:17:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34854sec preferred_lft 34854sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:17:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34844sec preferred_lft 34844sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:17:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34834sec preferred_lft 34834sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:17:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34824sec preferred_lft 34824sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:17:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34814sec preferred_lft 34814sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:17:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34804sec preferred_lft 34804sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:18:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34794sec preferred_lft 34794sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:18:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 34784sec preferred_lft 34784sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:36:49 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43173sec preferred_lft 43173sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:36:59 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43163sec preferred_lft 43163sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:37:09 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43153sec preferred_lft 43153sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:37:19 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43143sec preferred_lft 43143sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:37:29 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43133sec preferred_lft 43133sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:37:39 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43123sec preferred_lft 43123sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:37:49 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43113sec preferred_lft 43113sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:37:59 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43103sec preferred_lft 43103sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:38:09 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43093sec preferred_lft 43093sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:38:19 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43083sec preferred_lft 43083sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:38:29 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43073sec preferred_lft 43073sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:38:39 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43063sec preferred_lft 43063sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:38:49 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43053sec preferred_lft 43053sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:38:59 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43043sec preferred_lft 43043sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:39:09 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43033sec preferred_lft 43033sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:39:19 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43023sec preferred_lft 43023sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:39:29 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43013sec preferred_lft 43013sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:39:39 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 43003sec preferred_lft 43003sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:39:49 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42993sec preferred_lft 42993sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:39:59 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42983sec preferred_lft 42983sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:40:09 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42973sec preferred_lft 42973sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:40:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42963sec preferred_lft 42963sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:40:30 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42953sec preferred_lft 42953sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:40:40 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42943sec preferred_lft 42943sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:40:50 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42933sec preferred_lft 42933sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:41:00 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42923sec preferred_lft 42923sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:41:10 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42913sec preferred_lft 42913sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:41:20 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42903sec preferred_lft 42903sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Wed 10 Jun 15:41:43 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1358 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 9a:55:e0:8c:a6:a6 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 42880sec preferred_lft 42880sec
+    inet6 fe80::9855:e0ff:fe8c:a6a6/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:07:55 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40369sec preferred_lft 40369sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:11:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40148sec preferred_lft 40148sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:11:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40138sec preferred_lft 40138sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:11:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40128sec preferred_lft 40128sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:12:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40118sec preferred_lft 40118sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:12:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40108sec preferred_lft 40108sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:12:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40098sec preferred_lft 40098sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:12:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40088sec preferred_lft 40088sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:12:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40078sec preferred_lft 40078sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:12:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40068sec preferred_lft 40068sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:13:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40058sec preferred_lft 40058sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:13:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40048sec preferred_lft 40048sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:13:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40038sec preferred_lft 40038sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:13:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40028sec preferred_lft 40028sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:13:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40018sec preferred_lft 40018sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:13:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 40008sec preferred_lft 40008sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:14:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39998sec preferred_lft 39998sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:14:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39988sec preferred_lft 39988sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:14:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39978sec preferred_lft 39978sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:14:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39968sec preferred_lft 39968sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:14:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39958sec preferred_lft 39958sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:14:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39948sec preferred_lft 39948sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:15:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39938sec preferred_lft 39938sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:15:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39928sec preferred_lft 39928sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:15:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39918sec preferred_lft 39918sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:15:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39908sec preferred_lft 39908sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:15:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39898sec preferred_lft 39898sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:15:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39888sec preferred_lft 39888sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:16:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39878sec preferred_lft 39878sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:16:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39868sec preferred_lft 39868sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:16:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39858sec preferred_lft 39858sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:16:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39848sec preferred_lft 39848sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:16:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39838sec preferred_lft 39838sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:16:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39828sec preferred_lft 39828sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:17:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39818sec preferred_lft 39818sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:17:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39808sec preferred_lft 39808sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:17:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39798sec preferred_lft 39798sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:17:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39788sec preferred_lft 39788sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:17:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39778sec preferred_lft 39778sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:17:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39768sec preferred_lft 39768sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:18:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39758sec preferred_lft 39758sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:18:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39748sec preferred_lft 39748sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:18:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39738sec preferred_lft 39738sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:18:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39728sec preferred_lft 39728sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:18:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39718sec preferred_lft 39718sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:18:56 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39708sec preferred_lft 39708sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:19:06 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39698sec preferred_lft 39698sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:19:16 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39688sec preferred_lft 39688sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:19:26 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39678sec preferred_lft 39678sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:19:36 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39668sec preferred_lft 39668sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:19:46 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39658sec preferred_lft 39658sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:19:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39648sec preferred_lft 39648sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:20:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39638sec preferred_lft 39638sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:20:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39628sec preferred_lft 39628sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:20:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39618sec preferred_lft 39618sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:20:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39608sec preferred_lft 39608sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:20:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39598sec preferred_lft 39598sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:20:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39588sec preferred_lft 39588sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:21:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39578sec preferred_lft 39578sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:21:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39568sec preferred_lft 39568sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:21:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39558sec preferred_lft 39558sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:21:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39548sec preferred_lft 39548sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:21:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39538sec preferred_lft 39538sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:21:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39528sec preferred_lft 39528sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:22:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39518sec preferred_lft 39518sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:22:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39508sec preferred_lft 39508sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:22:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39498sec preferred_lft 39498sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:22:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39488sec preferred_lft 39488sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:22:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39478sec preferred_lft 39478sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:22:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39468sec preferred_lft 39468sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:23:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39458sec preferred_lft 39458sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:23:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39448sec preferred_lft 39448sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:23:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39438sec preferred_lft 39438sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:23:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39428sec preferred_lft 39428sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:23:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39418sec preferred_lft 39418sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:23:57 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39408sec preferred_lft 39408sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:24:07 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39398sec preferred_lft 39398sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:24:17 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39388sec preferred_lft 39388sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:24:27 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39378sec preferred_lft 39378sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:24:37 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39368sec preferred_lft 39368sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
+Mon 15 Jun 10:24:47 EEST 2026
+--- Interface Status ---
+3: usb0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UNKNOWN group default qlen 1000
+    link/ether 3a:b7:9f:e2:3a:5d brd ff:ff:ff:ff:ff:ff
+    inet 192.168.225.97/22 brd 192.168.227.255 scope global dynamic noprefixroute usb0
+       valid_lft 39358sec preferred_lft 39358sec
+    inet6 fe80::38b7:9fff:fee2:3a5d/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+--- Route Table ---
+default via 192.168.225.1 dev usb0 proto dhcp src 192.168.225.97 metric 100
+default via 192.168.50.1 dev wlan0 proto dhcp src 192.168.50.48 metric 600
+192.168.50.0/24 dev wlan0 proto kernel scope link src 192.168.50.48 metric 600
+192.168.224.0/22 dev usb0 proto kernel scope link src 192.168.225.97 metric 100
+========================
